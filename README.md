@@ -1,6 +1,6 @@
 # Observational Supervision
 
-Accompanying codebase for the paper "Clinical outcome prediction using observational supervision with electronic health records and audit logs" by **Nandita Bhaskhar**, Wui Ip, Jonathan H. Chen, and Daniel L. Rubin, published in the **Journal of Biomedical Informatics, 2023**.
+Accompanying codebase for the paper "[Clinical outcome prediction using observational supervision with electronic health records and audit logs](https://www.sciencedirect.com/science/article/pii/S1532046423002435?via%3Dihub)" by **Nandita Bhaskhar**, Wui Ip, Jonathan H. Chen, and Daniel L. Rubin, published in the **Journal of Biomedical Informatics, 2023**.
 
 <p align="center">
     <img src="docs/GraphicalAbstract.png" width="800"> <br>
